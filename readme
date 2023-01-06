@@ -1,0 +1,5 @@
+database username: api_web_tech_assignment
+password : wbuFh6LoCmg9Ku1u
+
+
+database link : mongodb+srv://api_web_tech_assignment:<password>@cluster0.mkhjmqr.mongodb.net/?retryWrites=true&w=majority
